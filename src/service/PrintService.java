@@ -75,7 +75,7 @@ public class PrintService {
             System.out.println("Entrer quantite :");
             int quantity = sc.nextInt();
 
-            System.out.println("Entrer code offer 0 :sans offer 1:buyonegetone  :2:ThreeforpriceOtwo  :");
+            System.out.println("Entrer code:  0 :sans offer 1: buyonegetone  :2:ThreeforpriceOtwo  :");
             int numOffer = sc.nextInt();
 
 
